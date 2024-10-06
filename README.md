@@ -60,7 +60,7 @@
 
 ## 许可证
 
-此项目使用MIT许可证，详情请参阅 [LICENSE](LICENSE) 文件。
+此项目使用 Apache-2.0 license 许可证，详情请参阅 [LICENSE](LICENSE) 文件。
 
 ## 联系方式
 
